@@ -1,0 +1,1 @@
+# Exercicio024.py
